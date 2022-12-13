@@ -1,1 +1,1 @@
-# snake-game
+build this game following a youtube tutorial
